@@ -1,0 +1,201 @@
+"Name1" Monthly 01.05.2008 200000
+        Список редакторов журнала:
+                Luka Semyonov 20.02.2000
+        Список статей:
+                Иван Иванов 01.01.2000 title1 10
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Daniil 22.06.1999 SCIENCE 1,002
+
+"IXBT.COM" Monthly 01.06.2002 40000
+        Список редакторов журнала:
+                Rozanov Alexey 11.07.1983
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+
+"HELLO" Weekly 06.01.2009 83200
+        Список редакторов журнала:
+                Daria Kalashnikova 27.02.1999
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Tretyakov 22.06.1995 Star 6,7
+
+"hELLO" Weekly 07.01.2009 83200
+        Список редакторов журнала:
+                Fedor Kuznetsov 05.12.1988
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Zakharova Alisa 01.01.2001 Rainier Fog 8,1
+
+"Cell Biology" Yearly 01.12.2018 25000
+        Список редакторов журнала:
+                Иван Иванов 01.01.2000
+                Kiril Kirill 10.05.2005
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Daniil 13.09.1980 Arminius, Jacob 2,2
+
+
+Sorted by count:
+"Cell Biology" Yearly 01.12.2018 25000
+        Список редакторов журнала:
+                Иван Иванов 01.01.2000
+                Kiril Kirill 10.05.2005
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Daniil 13.09.1980 Arminius, Jacob 2,2
+
+"IXBT.COM" Monthly 01.06.2002 40000
+        Список редакторов журнала:
+                Rozanov Alexey 11.07.1983
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+
+"HELLO" Weekly 06.01.2009 83200
+        Список редакторов журнала:
+                Daria Kalashnikova 27.02.1999
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Tretyakov 22.06.1995 Star 6,7
+
+"hELLO" Weekly 07.01.2009 83200
+        Список редакторов журнала:
+                Fedor Kuznetsov 05.12.1988
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Zakharova Alisa 01.01.2001 Rainier Fog 8,1
+
+"Name1" Monthly 01.05.2008 200000
+        Список редакторов журнала:
+                Luka Semyonov 20.02.2000
+        Список статей:
+                Иван Иванов 01.01.2000 title1 10
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Daniil 22.06.1999 SCIENCE 1,002
+
+
+Sorted by name:
+"Cell Biology" Yearly 01.12.2018 25000
+        Список редакторов журнала:
+                Иван Иванов 01.01.2000
+                Kiril Kirill 10.05.2005
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Daniil 13.09.1980 Arminius, Jacob 2,2
+
+"hELLO" Weekly 07.01.2009 83200
+        Список редакторов журнала:
+                Fedor Kuznetsov 05.12.1988
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Zakharova Alisa 01.01.2001 Rainier Fog 8,1
+
+"HELLO" Weekly 06.01.2009 83200
+        Список редакторов журнала:
+                Daria Kalashnikova 27.02.1999
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Tretyakov 22.06.1995 Star 6,7
+
+"IXBT.COM" Monthly 01.06.2002 40000
+        Список редакторов журнала:
+                Rozanov Alexey 11.07.1983
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+
+"Name1" Monthly 01.05.2008 200000
+        Список редакторов журнала:
+                Luka Semyonov 20.02.2000
+        Список статей:
+                Иван Иванов 01.01.2000 title1 10
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Daniil 22.06.1999 SCIENCE 1,002
+
+
+Sorted by release:
+"IXBT.COM" Monthly 01.06.2002 40000
+        Список редакторов журнала:
+                Rozanov Alexey 11.07.1983
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+
+"Name1" Monthly 01.05.2008 200000
+        Список редакторов журнала:
+                Luka Semyonov 20.02.2000
+        Список статей:
+                Иван Иванов 01.01.2000 title1 10
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Daniil 22.06.1999 SCIENCE 1,002
+
+"HELLO" Weekly 06.01.2009 83200
+        Список редакторов журнала:
+                Daria Kalashnikova 27.02.1999
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Tretyakov 22.06.1995 Star 6,7
+
+"hELLO" Weekly 07.01.2009 83200
+        Список редакторов журнала:
+                Fedor Kuznetsov 05.12.1988
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Zakharova Alisa 01.01.2001 Rainier Fog 8,1
+
+"Cell Biology" Yearly 01.12.2018 25000
+        Список редакторов журнала:
+                Иван Иванов 01.01.2000
+                Kiril Kirill 10.05.2005
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Daniil 13.09.1980 Arminius, Jacob 2,2
+
+Max average rate: 0
+
+List monthly:
+"IXBT.COM" Monthly 01.06.2002 40000
+        Список редакторов журнала:
+                Rozanov Alexey 11.07.1983
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+
+"Name1" Monthly 01.05.2008 200000
+        Список редакторов журнала:
+                Luka Semyonov 20.02.2000
+        Список статей:
+                Иван Иванов 01.01.2000 title1 10
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Daniil 22.06.1999 SCIENCE 1,002
+
+
+
+RatingGroup:
+"IXBT.COM" Monthly 01.06.2002 40000
+        Список редакторов журнала:
+                Rozanov Alexey 11.07.1983
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+
+"HELLO" Weekly 06.01.2009 83200
+        Список редакторов журнала:
+                Daria Kalashnikova 27.02.1999
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Alexander Tretyakov 22.06.1995 Star 6,7
+
+"hELLO" Weekly 07.01.2009 83200
+        Список редакторов журнала:
+                Fedor Kuznetsov 05.12.1988
+        Список статей:
+                Иван Иванов 01.01.2000 TITLE 8,4224
+                Zakharova Alisa 01.01.2001 Rainier Fog 8,1
+
+
+Введите кол-во элементов: 1000
+Кол-во элементов: 1000
+            list.Contains() strList.Contains() dictionary.ContainsKey() strDictionary.ContainsKey() dictionary.ContainsValue()
+First       0,0081ms        0,0152ms           0,0009ms                 0,0048ms                    0,0371ms
+Central     0,0221ms        0,0091ms           0,0004ms                 0,0007ms                    0,0128ms
+Last        0,0264ms        0,0067ms           0,0003ms                 0,0003ms                    0,0217ms
+Out-of_coll 0,0169ms        0,0039ms           0,0001ms                 0,0003ms                    0,0189ms
+
+C:\Program Files\dotnet\dotnet.exe (процесс 14028) завершил работу с кодом 0.
+Нажмите любую клавишу, чтобы закрыть это окно…
