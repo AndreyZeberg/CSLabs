@@ -1,2 +1,1 @@
-![results](https://github.com/AndreyZeberg/CSLabs/blob/main/Lab6/results.png)
-![results]<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+<img src="https://github.com/AndreyZeberg/CSLabs/blob/main/Lab6/results.png" width=50% height=50%>
