@@ -1,0 +1,62 @@
+source:
+"Name1" Monthly 01.05.2008 200000
+        Список редакторов журнала:
+                Иван Иванов 01.01.2000
+                Kiril Kirill 10.05.2005
+        Список статей:
+                Иван Иванов 01.01.2000 title1 10
+                Иван Иванов 01.01.2000 tITLE 5,9
+                Alexander Daniil 22.06.1999 SCIENCE 1,002
+
+copy:
+"Name1" Monthly 01.05.2008 200000
+        Список редакторов журнала:
+                Иван Иванов 01.01.2000
+                Kiril Kirill 10.05.2005
+        Список статей:
+                Иван Иванов 01.01.2000 title1 10
+                Иван Иванов 01.01.2000 tITLE 5,9
+                Alexander Daniil 22.06.1999 SCIENCE 1,002
+
+Enter file name: data.bin
+File data.bin not found
+"Name1" Monthly 01.05.2008 200000
+        Список редакторов журнала:
+                Иван Иванов 01.01.2000
+                Kiril Kirill 10.05.2005
+        Список статей:
+                Иван Иванов 01.01.2000 title1 10
+                Иван Иванов 01.01.2000 tITLE 5,9
+                Alexander Daniil 22.06.1999 SCIENCE 1,002
+
+Enter new article parameters as follows (delimiter between parameters is ' '):
+[article-title] [article-rate] [author-name] [author-surname] [dd/mm/yyyy]
+SCINECE 12,3 Daria Kalashnikova 27/2/1999
+"Name1" Monthly 01.05.2008 200000
+        Список редакторов журнала:
+                Иван Иванов 01.01.2000
+                Kiril Kirill 10.05.2005
+        Список статей:
+                Иван Иванов 01.01.2000 title1 10
+                Иван Иванов 01.01.2000 tITLE 5,9
+                Alexander Daniil 22.06.1999 SCIENCE 1,002
+                Daria Kalashnikova 27.02.1999 SCINECE 12,3
+
+Enter new article parameters as follows (delimiter between parameters is ' '):
+[article-title] [article-rate] [author-name] [author-surname] [dd/mm/yyyy]
+Star 6,7 Alexander Tretyakov 22/6/1995
+"Name1" Monthly 01.05.2008 200000
+        Список редакторов журнала:
+                Иван Иванов 01.01.2000
+                Kiril Kirill 10.05.2005
+        Список статей:
+                Иван Иванов 01.01.2000 title1 10
+                Иван Иванов 01.01.2000 tITLE 5,9
+                Alexander Daniil 22.06.1999 SCIENCE 1,002
+                Daria Kalashnikova 27.02.1999 SCINECE 12,3
+                Alexander Tretyakov 22.06.1995 Star 6,7
+
+
+C:\Program Files\dotnet\dotnet.exe (процесс 6140) завершил работу с кодом 0.
+Чтобы автоматически закрывать консоль при остановке отладки, включите параметр "Сервис" ->"Параметры" ->"Отладка" -> "Автоматически закрыть консоль при остановке отладки".
+Нажмите любую клавишу, чтобы закрыть это окно…
