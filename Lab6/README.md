@@ -1,2 +1,1 @@
-# Зеберг Андрей ПИН-24
-## Лабораторные 3-6 на сдачу
+![results](https://myoctocat.com/assets/images/base-octocat.svg)
